@@ -33,8 +33,8 @@
         <name>x_2129892_equipm_0_equipment_request</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
-        <read_only_option/>
+        <read_only>true</read_only>
+        <read_only_option>instance_configured</read_only_option>
         <read_roles/>
         <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Equipment Request App">89ac017883d013509d3b5860ceaad3de</sys_scope>
         <sys_update_name>sys_dictionary_x_2129892_equipm_0_equipment_request_manager</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-30 09:53:50</sys_updated_on>
+        <sys_updated_on>2026-10-31 05:32:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

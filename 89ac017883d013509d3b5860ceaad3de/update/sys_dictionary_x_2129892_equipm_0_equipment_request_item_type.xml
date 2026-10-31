@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Choice">choice</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>255</max_length>
         <name>x_2129892_equipm_0_equipment_request</name>
         <next_element/>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Equipment Request App">89ac017883d013509d3b5860ceaad3de</sys_scope>
         <sys_update_name>sys_dictionary_x_2129892_equipm_0_equipment_request_item_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-30 09:53:49</sys_updated_on>
+        <sys_updated_on>2026-10-30 10:15:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

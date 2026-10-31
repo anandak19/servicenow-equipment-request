@@ -4,13 +4,139 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-10-30 09:20:48</sys_created_on>
-            <sys_id>a73f897c83d013509d3b5860ceaad376</sys_id>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>51cb5534835413509d3b5860ceaad35c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-10-30 09:20:48</sys_updated_on>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>ddcb5534835413509d3b5860ceaad35c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>5dcb5534835413509d3b5860ceaad35d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>laptop_model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>d9cb5534835413509d3b5860ceaad35e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keyboard_model</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>59cb5534835413509d3b5860ceaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>d5cb5534835413509d3b5860ceaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>1dcb5534835413509d3b5860ceaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>99cb5534835413509d3b5860ceaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>19cb5534835413509d3b5860ceaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mouse_model</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-30 10:15:32</sys_created_on>
+            <sys_id>95cb5534835413509d3b5860ceaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2129892_equipm_0_equipment_request" sys_domain="global" view="Default view">633f497c83d013509d3b5860ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-30 10:15:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
